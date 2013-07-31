@@ -1,0 +1,19 @@
+
+#home{ 
+   		background:url(../images/logo.png) no-repeat center #6963ad;
+   
+   	}
+/* Portrait 
+@media screen and (orientation:portrait) {
+  #home{ 
+  	background:url(../images/bg_port.png) no-repeat;
+  }
+}
+
+@media screen and (orientation:landscape) {
+   #home{ 
+   		background:url(../images/bg_land.png) no-repeat;
+   	}
+}
+
+*/
