@@ -1,0 +1,862 @@
+<div class="row wrapper">
+              <!-- Palestrantes -->
+  
+    
+  
+    
+
+      <div class="col6 list-speaker" id="maujor">
+        
+        <div class="col1 img-speaker">
+          <img src="/themes/front-in-bh/img/maujor.jpg" alt="Maurício Samy Silva (Maujor)" itemprop="image" class="speaker-img" width="140" height="140">
+
+          
+          <div id="tabs" class="nav convidado">
+            <span class="item guest-btn">convidado</span>
+            <a href="#talk" class="item btn talk-btn" role="button">+ sobre a palestra</a>
+            <a href="#bio" class="item btn bio-btn current" role="button">+ biografia</a>
+          </div>
+          
+
+          <div class="social">
+          
+            <a target="_blank" href="https://twitter.com/maujor" class="twitter">
+              <img src="/themes/front-in-bh/img/twitter-icon.png" alt="Twitter Icon" width="40" height="40">
+            </a>
+          
+
+          
+            <a target="_blank" href="https://github.com/Maujor" class="github">
+              <img src="/themes/front-in-bh/img/github-icon.png" alt="Github Icon" width="40" height="40">
+            </a>
+          
+
+          
+            <a target="_blank" href="http://maujor.com" class="personal">
+              <img src="/themes/front-in-bh/img/personal-icon.png" alt="Personal Website Icon" width="40" height="40">
+            </a>
+          
+          </div>
+        </div>
+        
+        
+        
+        <div class="col5 desc-speaker">
+            <h2>
+                <span class="desc-speaker-name">
+                  <b>Full time no evento :)</b> 
+                  Maurício Samy Silva (Maujor)
+                  
+                    <i> / Convidado Especial</i>
+                  
+                </span>
+                <br>
+            </h2>
+            <div id="content">
+              <p id="talk" class="talk-description hide" style="display: none;">
+                  Como convidado especial, ele irá autografar seus livros e bater um papo com a galera.
+              </p>
+              <p id="bio" class="bio">
+                <span class="desc-speaker-company">Dinossauro das CSS Maujor (RJ, Brasil)</span>
+                Como convidado especial, ele irá autografar seus livros e bater um papo com a galera.
+              </p>
+            </div>
+        </div>
+        
+      </div>
+
+    
+  
+    
+
+      <div class="col6 list-speaker" id="welcome-coffee">
+        
+        <div class="col1 img-speaker">
+          <img src="/themes/front-in-bh/img/cofe.png" alt="Cadastramento e Welcome Coffee" itemprop="image" class="speaker-img" width="140" height="140">
+
+          
+
+          <div class="social">
+          
+
+          
+
+          
+          </div>
+        </div>
+        
+        
+        
+        <div class="col5 desc-speaker">
+            <h2>
+                <span class="desc-speaker-name">
+                  <b>08:00</b> 
+                  Cadastramento e Welcome Coffee
+                  
+                </span>
+                <br>
+            </h2>
+            <div id="content">
+              <p id="talk" class="talk-description hide" style="display: none;">
+                  
+              </p>
+              <p id="bio" class="bio">
+                <span class="desc-speaker-company"> </span>
+                
+              </p>
+            </div>
+        </div>
+        
+      </div>
+
+    
+  
+    
+
+      <div class="col6 list-speaker" id="abertura">
+        
+        <div class="col1 img-speaker">
+          <img src="/themes/front-in-bh/img/bernard.png" alt="Abertura Bernard de Luna" itemprop="image" class="speaker-img" width="140" height="140">
+
+          
+          <div id="tabs" class="nav apresentadores">
+            <span class="item guest-btn">convidado</span>
+            <a href="#talk" class="item btn talk-btn" role="button">+ sobre a palestra</a>
+            <a href="#bio" class="item btn bio-btn current" role="button">+ biografia</a>
+          </div>
+          
+
+          <div class="social">
+          
+
+          
+
+          
+          </div>
+        </div>
+        
+        
+        
+        <div class="col5 desc-speaker">
+            <h2>
+                <span class="desc-speaker-name">
+                  <b>08:50</b> 
+                  Abertura Bernard de Luna
+                  
+                    <i> / Zeno Rocha</i>
+                  
+                </span>
+                <br>
+            </h2>
+            <div id="content">
+              <p id="talk" class="talk-description hide" style="display: none;">
+                  
+              </p>
+              <p id="bio" class="bio">
+                <span class="desc-speaker-company"> </span>
+                
+              </p>
+            </div>
+        </div>
+        
+      </div>
+
+    
+  
+    
+
+      <div class="col6 list-speaker" id="clauber-stipkovic">
+        
+        <div class="col1 img-speaker">
+          <img src="/themes/front-in-bh/img/clauber-stipkovic.jpeg" alt="Clauber Stipkovic" itemprop="image" class="speaker-img" width="140" height="140">
+
+          
+          <div id="tabs" class="nav palestrante">
+            <span class="item guest-btn">convidado</span>
+            <a href="#talk" class="item btn talk-btn" role="button">+ sobre a palestra</a>
+            <a href="#bio" class="item btn bio-btn current" role="button">+ biografia</a>
+          </div>
+          
+
+          <div class="social">
+          
+
+          
+
+          
+          </div>
+        </div>
+        
+        
+        
+        <div class="col5 desc-speaker">
+            <h2>
+                <span class="desc-speaker-name">
+                  <b>09h00</b> 
+                  Clauber Stipkovic
+                  
+                    <i> / Mozilla Persona</i>
+                  
+                </span>
+                <br>
+            </h2>
+            <div id="content">
+              <p id="talk" class="talk-description hide" style="display: none;">
+                  Persona é um sistema de identidade Web. Persona você fazer login em websites utilizando um email escolhido, ao invés do usuário ficar guardando usuários e senhas. A Mozilla lida com os detalhes.Desenvolvedores só precisam de algumas linhas de código para gerar uma boa relação com usuários e prover um sistema de login confiável e seguro.
+              </p>
+              <p id="bio" class="bio">
+                <span class="desc-speaker-company">Developer Evangelist UOL (SP)</span>
+                Clauber Stipkovic é desenvolvedor front-end no UOL Hosts, voluntário da comunidade mozilla (desde fevereiro de 2004), além de estudante de Ciência da Computação na Universidade Mackenzie - FCI.
+              </p>
+            </div>
+        </div>
+        
+      </div>
+
+    
+  
+    
+
+      <div class="col6 list-speaker" id="tiago-hilkner">
+        
+        <div class="col1 img-speaker">
+          <img src="/themes/front-in-bh/img/tiago-hilkner.jpeg" alt="Tiago Hilkner Venegas" itemprop="image" class="speaker-img" width="140" height="140">
+
+          
+          <div id="tabs" class="nav palestrante">
+            <span class="item guest-btn">convidado</span>
+            <a href="#talk" class="item btn talk-btn" role="button">+ sobre a palestra</a>
+            <a href="#bio" class="item btn bio-btn current" role="button">+ biografia</a>
+          </div>
+          
+
+          <div class="social">
+          
+            <a target="_blank" href="https://twitter.com/tiagoflash" class="twitter">
+              <img src="/themes/front-in-bh/img/twitter-icon.png" alt="Twitter Icon" width="40" height="40">
+            </a>
+          
+
+          
+
+          
+          </div>
+        </div>
+        
+        
+        
+        <div class="col5 desc-speaker">
+            <h2>
+                <span class="desc-speaker-name">
+                  <b>09h50</b> 
+                  Tiago Hilkner Venegas
+                  
+                    <i> / Desenvolvendo aplicações móveis com bbUI.js  </i>
+                  
+                </span>
+                <br>
+            </h2>
+            <div id="content">
+              <p id="talk" class="talk-description hide" style="display: none;">
+                  Conheça a Toolkit bbUI.js para desenvolvimento de aplicações móveis com HTML5.Permite criar aplicações móveis seguindo os padrões de UI da nova platarforma BlackBerry 10.
+              </p>
+              <p id="bio" class="bio">
+                <span class="desc-speaker-company"> Edunet</span>
+                Tiago Hilkner Venegas é proprietário da Empresa de tecnologia Edunet e atua na área de desenvolvimento a mais de 15 anos, atendendo a grandes empresas do mercado nacional, nos últimos 5 vem se especializando em desenvolvimento para plataformas móveis. Venegas atuou por anos como evangelista das tecnologias Adobe e ministrou treinamentos e palestras por todo o Brasil, hoje é gerente do BlackBerry Dev Group Belo Horizonte e BlackBerry Elite Member.
+              </p>
+            </div>
+        </div>
+        
+      </div>
+
+    
+  
+    
+
+      <div class="col6 list-speaker" id="michael-lancaster">
+        
+        <div class="col1 img-speaker">
+          <img src="/themes/front-in-bh/img/michael.png" alt="Michael Lancaster" itemprop="image" class="speaker-img" width="140" height="140">
+
+          
+          <div id="tabs" class="nav palestrante">
+            <span class="item guest-btn">convidado</span>
+            <a href="#talk" class="item btn talk-btn" role="button">+ sobre a palestra</a>
+            <a href="#bio" class="item btn bio-btn current" role="button">+ biografia</a>
+          </div>
+          
+
+          <div class="social">
+          
+            <a target="_blank" href="https://twitter.com/weblancaster" class="twitter">
+              <img src="/themes/front-in-bh/img/twitter-icon.png" alt="Twitter Icon" width="40" height="40">
+            </a>
+          
+
+          
+            <a target="_blank" href="https://github.com/weblancaster" class="github">
+              <img src="/themes/front-in-bh/img/github-icon.png" alt="Github Icon" width="40" height="40">
+            </a>
+          
+
+          
+            <a target="_blank" href="http://bymichaellancaster.com/" class="personal">
+              <img src="/themes/front-in-bh/img/personal-icon.png" alt="Personal Website Icon" width="40" height="40">
+            </a>
+          
+          </div>
+        </div>
+        
+        
+        
+        <div class="col5 desc-speaker">
+            <h2>
+                <span class="desc-speaker-name">
+                  <b>10h15</b> 
+                  Michael Lancaster
+                  
+                    <i> / CSS do jeito correto?</i>
+                  
+                </span>
+                <br>
+            </h2>
+            <div id="content">
+              <p id="talk" class="talk-description hide" style="display: none;">
+                  Mesmo com vários cases de que CSS faz muita diferença na qualidade da aplicação Web e na produtividade do time desenvolvedores continuam ignorando esses cases e sinais de que um CSS bem arquitetado é essencial para o sucesso da aplicação Web.Nesse talk vamos ver algumas metodologias/modos de como ajudar seu time e você a ser mais produtivo, desenvolver melhores CSS arquitetura, também vamos falar de standards e melhores pratica.
+              </p>
+              <p id="bio" class="bio">
+                <span class="desc-speaker-company">Web Application Developer Cappex (Chicago, EUA)</span>
+                Um jovem norte-americano-brasileiro apaixonado por desenvolvimento Web e Open Source já foi voluntario na CPBR, trabalhou em Produtoras interativas fazendo trabalhos para clientes como Banco Itaú, Açucar União, entre outros e Agencias como IDTBWA, LEWLARA, Africa, etc. Também foi consultor Front End para HP ajudando JSP developers com JS e Grid Systems. Atualmente atua como Web Application Developer na Cappex, em Chicago.
+              </p>
+            </div>
+        </div>
+        
+      </div>
+
+    
+  
+    
+
+      <div class="col6 list-speaker" id="sergio-lopes">
+        
+        <div class="col1 img-speaker">
+          <img src="/themes/front-in-bh/img/sergio.png" alt="Sérgio Lopes" itemprop="image" class="speaker-img" width="140" height="140">
+
+          
+          <div id="tabs" class="nav palestrante">
+            <span class="item guest-btn">convidado</span>
+            <a href="#talk" class="item btn talk-btn" role="button">+ sobre a palestra</a>
+            <a href="#bio" class="item btn bio-btn current" role="button">+ biografia</a>
+          </div>
+          
+
+          <div class="social">
+          
+            <a target="_blank" href="https://twitter.com/sergio_caelum" class="twitter">
+              <img src="/themes/front-in-bh/img/twitter-icon.png" alt="Twitter Icon" width="40" height="40">
+            </a>
+          
+
+          
+            <a target="_blank" href="https://github.com/sergiolopes" class="github">
+              <img src="/themes/front-in-bh/img/github-icon.png" alt="Github Icon" width="40" height="40">
+            </a>
+          
+
+          
+            <a target="_blank" href="http://sergiolopes.org/" class="personal">
+              <img src="/themes/front-in-bh/img/personal-icon.png" alt="Personal Website Icon" width="40" height="40">
+            </a>
+          
+          </div>
+        </div>
+        
+        
+        
+        <div class="col5 desc-speaker">
+            <h2>
+                <span class="desc-speaker-name">
+                  <b>11h05</b> 
+                  Sérgio Lopes
+                  
+                    <i> / Repensando o front-end para telas de alta resolução</i>
+                  
+                </span>
+                <br>
+            </h2>
+            <div id="content">
+              <p id="talk" class="talk-description hide" style="display: none;">
+                  Telas de alta resolução? Imagens responsivas? Retina? Gráficos vetoriais? SVG, icon fonts? DPIs, viewports, device pixel ratio? Muitos termos confusos? Essa palestra vai mostrar tudo que você precisa saber pra entender e trabalhar com telas de resoluções diferentes. Vamos ver como adaptar seu design e suas imagens pra esses contextos e dicas de como suportar os vários tipos de tela de hoje e do futuro!
+              </p>
+              <p id="bio" class="bio">
+                <span class="desc-speaker-company">Developer e Professor Caelum (SP, Brasil)</span>
+                Trabalha na Caelum como instrutor e desenvolvedor há 8 anos, nas áreas de front-end, mobile e Java. Já palestrou em diversos eventos, é meio louco por páginas rápidas e otimizadas.
+              </p>
+            </div>
+        </div>
+        
+      </div>
+
+    
+  
+    
+
+      <div class="col6 list-speaker" id="almoco">
+        
+        <div class="col1 img-speaker">
+          <img src="/themes/front-in-bh/img/almoco.png" alt="Almoço - Não incluido no evento" itemprop="image" class="speaker-img" width="140" height="140">
+
+          
+
+          <div class="social">
+          
+
+          
+
+          
+          </div>
+        </div>
+        
+        
+        
+        <div class="col5 desc-speaker">
+            <h2>
+                <span class="desc-speaker-name">
+                  <b>12:00</b> 
+                  Almoço - Não incluido no evento
+                  
+                </span>
+                <br>
+            </h2>
+            <div id="content">
+              <p id="talk" class="talk-description hide" style="display: none;">
+                  
+              </p>
+              <p id="bio" class="bio">
+                <span class="desc-speaker-company"> </span>
+                
+              </p>
+            </div>
+        </div>
+        
+      </div>
+
+    
+  
+    
+
+      <div class="col6 list-speaker" id="ciro-nunes">
+        
+        <div class="col1 img-speaker">
+          <img src="/themes/front-in-bh/img/ciro.jpg" alt="Ciro Nunes" itemprop="image" class="speaker-img" width="140" height="140">
+
+          
+          <div id="tabs" class="nav palestrante">
+            <span class="item guest-btn">convidado</span>
+            <a href="#talk" class="item btn talk-btn" role="button">+ sobre a palestra</a>
+            <a href="#bio" class="item btn bio-btn current" role="button">+ biografia</a>
+          </div>
+          
+
+          <div class="social">
+          
+            <a target="_blank" href="https://twitter.com/cironunesdev" class="twitter">
+              <img src="/themes/front-in-bh/img/twitter-icon.png" alt="Twitter Icon" width="40" height="40">
+            </a>
+          
+
+          
+            <a target="_blank" href="https://github.com/cironunes" class="github">
+              <img src="/themes/front-in-bh/img/github-icon.png" alt="Github Icon" width="40" height="40">
+            </a>
+          
+
+          
+            <a target="_blank" href="http://cironunes.github.io" class="personal">
+              <img src="/themes/front-in-bh/img/personal-icon.png" alt="Personal Website Icon" width="40" height="40">
+            </a>
+          
+          </div>
+        </div>
+        
+        
+        
+        <div class="col5 desc-speaker">
+            <h2>
+                <span class="desc-speaker-name">
+                  <b>13h15</b> 
+                  Ciro Nunes
+                  
+                    <i> / Desenvolvimento ágil com o AngularJS</i>
+                  
+                </span>
+                <br>
+            </h2>
+            <div id="content">
+              <p id="talk" class="talk-description hide" style="display: none;">
+                  A demanda do mercado por agilidade no desenvolvimento de sites/apps/serviços é cada vez mais evidente. Os frameworks ágeis como o SCRUM são excelentes para nos ajudar a nos organizar, para respondermos rapidamente a mudanças e fazer entregas rápidas. Nesta palestra, ele vai mostrar como o AngularJS e seu ecosistema de desenvolvimento se encaixa nos princípios do Agile Manifest, racionalizando o workflow e facilitando testar nosso JavaScript
+              </p>
+              <p id="bio" class="bio">
+                <span class="desc-speaker-company">Front-end Engineer Veduca (SP, Brasil)</span>
+                Foi responsável pelo Front-end dos maiores e-commerces da América Latina como Americanas, Submarino e Shoptime, enquanto trabalhou na Ideais. Recentemente foi o head do Front-end e Scrum Master da Kanui e hoje faz parte do time do Veduca. Como palestrante já esteve presente nos encontros locais de desenvolvedores JavaScript do Rio de Janeiro e São Paulo, apresentando principalmente sobre o framework AngularJS.
+              </p>
+            </div>
+        </div>
+        
+      </div>
+
+    
+  
+    
+
+      <div class="col6 list-speaker" id="reinaldo-ferraz">
+        
+        <div class="col1 img-speaker">
+          <img src="/themes/front-in-bh/img/reinaldo.jpg" alt="Reinaldo Ferraz" itemprop="image" class="speaker-img" width="140" height="140">
+
+          
+          <div id="tabs" class="nav palestrante">
+            <span class="item guest-btn">convidado</span>
+            <a href="#talk" class="item btn talk-btn" role="button">+ sobre a palestra</a>
+            <a href="#bio" class="item btn bio-btn current" role="button">+ biografia</a>
+          </div>
+          
+
+          <div class="social">
+          
+            <a target="_blank" href="https://twitter.com/reinaldoferraz" class="twitter">
+              <img src="/themes/front-in-bh/img/twitter-icon.png" alt="Twitter Icon" width="40" height="40">
+            </a>
+          
+
+          
+            <a target="_blank" href="https://github.com/reinaldoferraz" class="github">
+              <img src="/themes/front-in-bh/img/github-icon.png" alt="Github Icon" width="40" height="40">
+            </a>
+          
+
+          
+            <a target="_blank" href="http://blog.w3c.br/author/reinaldo/" class="personal">
+              <img src="/themes/front-in-bh/img/personal-icon.png" alt="Personal Website Icon" width="40" height="40">
+            </a>
+          
+          </div>
+        </div>
+        
+        
+        
+        <div class="col5 desc-speaker">
+            <h2>
+                <span class="desc-speaker-name">
+                  <b>14h05</b> 
+                  Reinaldo Ferraz
+                  
+                    <i> / Como contribuir para um padrão do W3C</i>
+                  
+                </span>
+                <br>
+            </h2>
+            <div id="content">
+              <p id="talk" class="talk-description hide" style="display: none;">
+                  Você sabia que pode participar da construção e evolução de um padrão dentro do W3C? Nessa lightning talk você vai descobrir como contribuir para a evolução da Web e quais os caminhos para conhecer ainda mais os processos do W3C.
+              </p>
+              <p id="bio" class="bio">
+                <span class="desc-speaker-company">Especialista em desenvolvimento web W3C Brasil</span>
+                Especialista em desenvolvimento web do W3C Brasil. Formado em desenho e computação gráfica e pós graduado em design de hipermídia pela Universidade Anhembi Morumbi em São Paulo. Trabalha há mais de 12 anos com desenvolvimento web. Coordenador do Prêmio Nacional de Acessibilidade na Web e do Grupo de Trabalho em Acessibilidade na Web e representante do W3C Brasil em plenárias técnicas do W3C.
+              </p>
+            </div>
+        </div>
+        
+      </div>
+
+    
+  
+    
+
+      <div class="col6 list-speaker" id="miller-medeiros">
+        
+        <div class="col1 img-speaker">
+          <img src="/themes/front-in-bh/img/miller.png" alt="Miller Medeiros" itemprop="image" class="speaker-img" width="140" height="140">
+
+          
+          <div id="tabs" class="nav palestrante">
+            <span class="item guest-btn">convidado</span>
+            <a href="#talk" class="item btn talk-btn" role="button">+ sobre a palestra</a>
+            <a href="#bio" class="item btn bio-btn current" role="button">+ biografia</a>
+          </div>
+          
+
+          <div class="social">
+          
+            <a target="_blank" href="https://twitter.com/millermedeiros" class="twitter">
+              <img src="/themes/front-in-bh/img/twitter-icon.png" alt="Twitter Icon" width="40" height="40">
+            </a>
+          
+
+          
+            <a target="_blank" href="https://github.com/millermedeiros" class="github">
+              <img src="/themes/front-in-bh/img/github-icon.png" alt="Github Icon" width="40" height="40">
+            </a>
+          
+
+          
+            <a target="_blank" href="http://blog.millermedeiros.com/" class="personal">
+              <img src="/themes/front-in-bh/img/personal-icon.png" alt="Personal Website Icon" width="40" height="40">
+            </a>
+          
+          </div>
+        </div>
+        
+        
+        
+        <div class="col5 desc-speaker">
+            <h2>
+                <span class="desc-speaker-name">
+                  <b>14h25</b> 
+                  Miller Medeiros
+                  
+                    <i> / RequireJS</i>
+                  
+                </span>
+                <br>
+            </h2>
+            <div id="content">
+              <p id="talk" class="talk-description hide" style="display: none;">
+                  Com projetos escritos em JS cada vez maiores e mais complexos é fundamental aprender técnicas, metodologias e ferramentas que ajudem no desenvolvimento e manutenção. O RequireJS e o uso de módulos é sem dúvida uma dessas ferramentas. Essa palestra explicará como que o RequireJS funciona internamente, boas práticas, os benefícios do seu uso, como que os plugins e a ferramenta de build (r.js) aumentam o poder e flexibilidade da sua aplicação, melhoram a performance e reduzem a burocracia durante o desenvolvimento.
+              </p>
+              <p id="bio" class="bio">
+                <span class="desc-speaker-company">Senior Developer Firstborn (NY, EUA)</span>
+                Começou como Designer, depois focou na área de desenvolvimento. Desde 2009 vem trabalhando para a agência Nova Iorquina, Firstborn. É também um grande contribuidor de projetos Open Source, entre eles o Require.JS e o Mout.
+              </p>
+            </div>
+        </div>
+        
+      </div>
+
+    
+  
+    
+
+      <div class="col6 list-speaker" id="coffee-break">
+        
+        <div class="col1 img-speaker">
+          <img src="/themes/front-in-bh/img/cofe.png" alt="Coffee Break - Incluido no evento" itemprop="image" class="speaker-img" width="140" height="140">
+
+          
+
+          <div class="social">
+          
+
+          
+
+          
+          </div>
+        </div>
+        
+        
+        
+        <div class="col5 desc-speaker">
+            <h2>
+                <span class="desc-speaker-name">
+                  <b>15:10</b> 
+                  Coffee Break - Incluido no evento
+                  
+                </span>
+                <br>
+            </h2>
+            <div id="content">
+              <p id="talk" class="talk-description hide" style="display: none;">
+                  
+              </p>
+              <p id="bio" class="bio">
+                <span class="desc-speaker-company"> </span>
+                
+              </p>
+            </div>
+        </div>
+        
+      </div>
+
+    
+  
+    
+
+      <div class="col6 list-speaker" id="eduardo-lundgren">
+        
+        <div class="col1 img-speaker">
+          <img src="/themes/front-in-bh/img/eduardo.png" alt="Eduardo Lundgren" itemprop="image" class="speaker-img" width="140" height="140">
+
+          
+          <div id="tabs" class="nav palestrante">
+            <span class="item guest-btn">convidado</span>
+            <a href="#talk" class="item btn talk-btn" role="button">+ sobre a palestra</a>
+            <a href="#bio" class="item btn bio-btn current" role="button">+ biografia</a>
+          </div>
+          
+
+          <div class="social">
+          
+            <a target="_blank" href="https://twitter.com/eduardolundgren" class="twitter">
+              <img src="/themes/front-in-bh/img/twitter-icon.png" alt="Twitter Icon" width="40" height="40">
+            </a>
+          
+
+          
+            <a target="_blank" href="https://github.com/eduardolundgren" class="github">
+              <img src="/themes/front-in-bh/img/github-icon.png" alt="Github Icon" width="40" height="40">
+            </a>
+          
+
+          
+            <a target="_blank" href="http://eduardolundgren.com" class="personal">
+              <img src="/themes/front-in-bh/img/personal-icon.png" alt="Personal Website Icon" width="40" height="40">
+            </a>
+          
+          </div>
+        </div>
+        
+        
+        
+        <div class="col5 desc-speaker">
+            <h2>
+                <span class="desc-speaker-name">
+                  <b>15h35</b> 
+                  Eduardo Lundgren
+                  
+                    <i> / Indo além com AlloyUI</i>
+                  
+                </span>
+                <br>
+            </h2>
+            <div id="content">
+              <p id="talk" class="talk-description hide" style="display: none;">
+                  Descubra o poder do framework AlloyUI para construção de aplicações web de alta escala, aprimorando a experiência e elevando a interação do usuário para um outro nível.
+              </p>
+              <p id="bio" class="bio">
+                <span class="desc-speaker-company">Software Engineer Liferay Inc. (Los Angeles, EUA)</span>
+                Criador do @alloyui and @trackingjs, ex-membro do @jquery e @jqueryui. Graduado em Engenharia Elétrica de Telecomunicações pela UPE e Mestrando em Ciência da Computação na UFPE. Atualmente é líder de desenvolvimento na Liferay Brasil.
+              </p>
+            </div>
+        </div>
+        
+      </div>
+
+    
+  
+    
+
+      <div class="col6 list-speaker" id="andrews-medina">
+        
+        <div class="col1 img-speaker">
+          <img src="/themes/front-in-bh/img/andrews.jpg" alt="Andrews Medina" itemprop="image" class="speaker-img" width="140" height="140">
+
+          
+          <div id="tabs" class="nav palestrante">
+            <span class="item guest-btn">convidado</span>
+            <a href="#talk" class="item btn talk-btn" role="button">+ sobre a palestra</a>
+            <a href="#bio" class="item btn bio-btn current" role="button">+ biografia</a>
+          </div>
+          
+
+          <div class="social">
+          
+            <a target="_blank" href="https://twitter.com/andrewsmedina" class="twitter">
+              <img src="/themes/front-in-bh/img/twitter-icon.png" alt="Twitter Icon" width="40" height="40">
+            </a>
+          
+
+          
+            <a target="_blank" href="https://github.com/andrewsmedina" class="github">
+              <img src="/themes/front-in-bh/img/github-icon.png" alt="Github Icon" width="40" height="40">
+            </a>
+          
+
+          
+            <a target="_blank" href="http://andrewsmedina.com" class="personal">
+              <img src="/themes/front-in-bh/img/personal-icon.png" alt="Personal Website Icon" width="40" height="40">
+            </a>
+          
+          </div>
+        </div>
+        
+        
+        
+        <div class="col5 desc-speaker">
+            <h2>
+                <span class="desc-speaker-name">
+                  <b>16h25</b> 
+                  Andrews Medina
+                  
+                    <i> / Testando interfaces de forma divertida</i>
+                  
+                </span>
+                <br>
+            </h2>
+            <div id="content">
+              <p id="talk" class="talk-description hide" style="display: none;">
+                  O aumento de confiança e agilidade que os testes automatizados trazem é um fato. Mas escrever testes para interfaces costumam serem chatos, complicados e difíceis de manter. Nessa palestra veremos técnicas e ferramentas para tornar os testes de interfaces mais simples e fáceis de manter
+              </p>
+              <p id="bio" class="bio">
+                <span class="desc-speaker-company">Sr. Software Engineer Globo.com (RJ, Brasil)</span>
+                Andrews Medina é desenvolvedor, um dos criadores do Splinter, uma ferramenta open source para testes de webapps, entusiasta de open source, cloud computing, e profeta nas horas vagas. É desenvolvedor na globo.com e atualmente trabalha no tsuru (tsuru.io) um PaaS opensource.
+              </p>
+            </div>
+        </div>
+        
+      </div>
+
+    
+  
+    
+
+      <div class="col6 list-speaker" id="encerramento">
+        
+        <div class="col1 img-speaker">
+          <img src="/themes/front-in-bh/img/zeno.jpg" alt="Encerramento Zeno Rocha" itemprop="image" class="speaker-img" width="140" height="140">
+
+          
+          <div id="tabs" class="nav apresentadores">
+            <span class="item guest-btn">convidado</span>
+            <a href="#talk" class="item btn talk-btn" role="button">+ sobre a palestra</a>
+            <a href="#bio" class="item btn bio-btn current" role="button">+ biografia</a>
+          </div>
+          
+
+          <div class="social">
+          
+
+          
+
+          
+          </div>
+        </div>
+        
+        
+        
+        <div class="col5 desc-speaker">
+            <h2>
+                <span class="desc-speaker-name">
+                  <b>17:15</b> 
+                  Encerramento Zeno Rocha
+                  
+                    <i> / Bernard de Luna</i>
+                  
+                </span>
+                <br>
+            </h2>
+            <div id="content">
+              <p id="talk" class="talk-description hide" style="display: none;">
+                  
+              </p>
+              <p id="bio" class="bio">
+                <span class="desc-speaker-company"> </span>
+                
+              </p>
+            </div>
+        </div>
+        
+      </div>
+
+    
+  
+          </div>

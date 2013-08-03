@@ -3,15 +3,28 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Front in BH 2013</title>
-	<link rel="stylesheet" type="css/text" href="css/style.css"></link>
-	<link rel="stylesheet" type="css/text" href="css/bbui-min.css"></link>
+	<link rel="stylesheet" type="css/text" href="css/style.css">
+	<link rel="stylesheet" type="css/text" href="css/bbui-min.css">
 	<script type="text/javascript" src="local:///chrome/webworks.js"></script>
 	<script type="text/javascript" src="js/bbui-min.js"></script>
 	<script type="text/javascript" src="js/bbm.js"></script>
 	<script>
 		document.addEventListener("webworksready", function(e){
-			bb.init();
-			bb.pushScreen("home.html", "home");	
+				var config = {};
+				
+				config.onscreenready = function(element, id) {
+										// aqui podemos adicionar elementos no dom	
+										};
+				config.ondomready = function(element, id, params) {
+											if (id == 'home') {
+												console.log(element)
+											} 
+										};
+				
+				// You must call init on bbUI before any other code loads.  
+				// If you want default functionality simply don't pass any parameters.. bb.init();
+				bb.init(config);
+				bb.pushScreen("home.html", "home");
 		},false);
 	</script>
 </head>
