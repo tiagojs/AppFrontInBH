@@ -7,22 +7,20 @@
 	<link rel="stylesheet" type="css/text" href="css/bbui-min.css">
 	<script type="text/javascript" src="local:///chrome/webworks.js"></script>
 	<script type="text/javascript" src="js/bbui-min.js"></script>
-	<script type="text/javascript" src="js/bbm.js"></script>
+	<script type="text/javascript" src="js/app.js"></script>
+	
 	<script>
 		document.addEventListener("webworksready", function(e){
-				var config = {};
-				
-				config.onscreenready = function(element, id) {
-										// aqui podemos adicionar elementos no dom	
-										};
+				var config = {
+					actionBarDark: true,
+                    controlsDark: true,
+                    listsDark: false,};
+
 				config.ondomready = function(element, id, params) {
 											if (id == 'home') {
 												console.log(element)
 											} 
 										};
-				
-				// You must call init on bbUI before any other code loads.  
-				// If you want default functionality simply don't pass any parameters.. bb.init();
 				bb.init(config);
 				bb.pushScreen("home.html", "home");
 		},false);
